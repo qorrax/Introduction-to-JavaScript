@@ -24,8 +24,9 @@ Do the following:
    3. Return the new value of the 1st variable
 
 */
-let candidate = "35"; {
-   console.log( "you can be president");
+let candidate = "35"; 
+  if (candidate === 35) {
+     console.log( "you can be president");
    }
       else {
          console.log( "you are not qualified ");
@@ -58,6 +59,23 @@ Do the following:
 
 */
 
+  let  client = "mood";
+   client = "mood"
+    if  (client == "is approved") {
+      console.log("Yay so happy");
+
+  }
+
+   else {
+      console.log(" sorry we can;t help you");
+
+
+   }
+
+
+
+
+
 
 /*
 
@@ -68,7 +86,7 @@ Use conditionals to check if a hardcoded number is odd or even, and then console
 
 */
 
-var num = ; // write a number here
+ // write a number here
 
 // write your conditions here
 
