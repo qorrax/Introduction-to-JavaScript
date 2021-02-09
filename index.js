@@ -8,6 +8,10 @@ Do the following:
    2. Return true if age is 18 or higher
 
 */
+let votingAge = "18";
+votingAge = "18";
+console.log(typeof(votingAge));
+
 
 
 
@@ -20,7 +24,13 @@ Do the following:
    3. Return the new value of the 1st variable
 
 */
+let candidate = "35"; {
+   console.log( "you can be president");
+   }
+      else {
+         console.log( "you are not qualified ");
 
+      }
 
 
 /*
@@ -34,6 +44,9 @@ Do the following:
    HINT: look up the Number method
 */
 
+      let num1 = 1999;
+      let num2 = 1999;
+      if (num1 )
 
 /*
 Task 4 - Mood Checker
